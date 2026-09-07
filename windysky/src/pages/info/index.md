@@ -21,7 +21,7 @@ Docusaurus 3.9.2
 
 ## Date of Creation
 
-![y](pathname:///img/Info/y.svg) y ![m](pathname:///img/Info/m.svg) m ![d](pathname:///img/Info/d.svg) d
+![y](../../../static/img/Info/y.svg) y ![m](../../../static/img/Info/m.svg) m ![d](../../../static/img/Info/d.svg) d
 
 ## Uptime
 
