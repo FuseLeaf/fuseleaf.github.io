@@ -3,3 +3,12 @@ header.header {
   backdrop-filter: blur(12px);
   border-bottom: none;
 }
+
+.avatar {
+  border-radius: 50%;
+  transition: transform 0.2s ease;
+}
+
+.avatar:hover {
+  transform: scale(1.1);
+}
