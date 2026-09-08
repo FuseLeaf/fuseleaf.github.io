@@ -12,3 +12,10 @@ header.header {
 .avatar:hover {
   transform: scale(1.1);
 }
+
+.avatar-link {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+  line-height: 0;
+}
