@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://kssjw.github.io',
+	site: 'https://fuseleaf.github.io',
 	integrations: [
 		starlight({
 			customCss: ['./src/styles/custom.css'],
@@ -12,7 +12,7 @@ export default defineConfig({
 			title: 'FuseLeaf Studio',
 			description: 'Rooted in code, blossoming in community.',
 			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/KSSJW/kssjw.github.io' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/FuseLeaf' },
 				{ icon: 'email', label: 'Email', href: 'mailto:contact@fuseleaf.org' },
 			],
 			sidebar: [

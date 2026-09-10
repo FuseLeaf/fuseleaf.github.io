@@ -22,7 +22,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://kssjw.github.io',
+  url: 'https://fuseleaf.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/windysky',
@@ -52,7 +52,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KSSJW/kssjw.github.io/tree/main/windysky',
+            'https://github.com/FuseLeaf/fuseleaf.github.io/tree/main/windysky',
         },
         blog: {
           showReadingTime: true,
@@ -63,7 +63,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KSSJW/kssjw.github.io/tree/main/windysky',
+            'https://github.com/FuseLeaf/fuseleaf.github.io/tree/main/windysky',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -161,7 +161,7 @@ const config = {
             items: [
               {
                 label: 'Site Source',
-                href: 'https://github.com/KSSJW/kssjw.github.io',
+                href: 'https://github.com/FuseLeaf/fuseleaf.github.io',
               },
               {
                 label: 'Legacy Page',
