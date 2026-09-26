@@ -22,6 +22,7 @@ The latest development progress is displayed in a list.
 | 26.2              | <font color="limegreen">1.0.2+26.2</font>         | -                                                 |
 | 26.1.x            | <font color="limegreen">1.0.2+26.1</font>         | -                                                 |
 | 1.21.11           | <font color="limegreen">1.0.2+1.21.11</font>      | -                                                 |
+| 1.21.9 - 1.21.10  | <font color="limegreen">1.0.2+1.21.9</font>       | -                                                 |
 
 ## NeoForge
 
