@@ -1,0 +1,8 @@
+{
+  "label": "TRT Minecart",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Turn minecarts into automated machines for tunneling, roadbed construction, and track laying."
+  }
+}
