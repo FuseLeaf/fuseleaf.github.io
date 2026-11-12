@@ -16,7 +16,7 @@ The latest development progress is displayed in a list.
 
 | Minecraft Version | Stable Mod Version                            | Unstable Mod Version                              | Branch Status |
 | :---------------- | :-------------------------------------------- | :------------------------------------------------ | :------------ |
-| 26.3              | -                                             | <font color="red">2.6.0-alpha.2+26.3</font>       | Mainline      |
+| 26.3              | -                                             | <font color="red">2.6.0-beta.1+26.3</font>        | Mainline      |
 | 26.2              | <font color="limegreen">2.5.0+26.2</font>     | -                                                 | -             |
 | 26.1.x            | <font color="orange">2.4.0+26.1</font>        | -                                                 | LTS           |
 | 1.21.11           | <font color="orange">2.3.0+1.21.11</font>     | -                                                 | -             |
