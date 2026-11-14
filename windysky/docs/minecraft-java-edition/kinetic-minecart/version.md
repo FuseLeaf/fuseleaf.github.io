@@ -40,10 +40,11 @@ The latest development progress is displayed in a list.
 | 1.15.x            | <font color="orange">1.15-release.1</font>    | -                                                 | -             |
 
 ## NeoForge
-| Minecraft Version | Stable Mod Version                                        | Unstable Mod Version  |
-| :---------------- | :-------------------------------------------------------- | :-------------------- |
-| 1.21.11           | <font color="orange">2.1.1+1.21.11.neoforge</font>        | -                     |
-| 1.21 - 1.21.1     | <font color="orange">2.1.1+1.21.neoforge.patch.1</font>   | -                     |
+| Minecraft Version | Stable Mod Version                                        | Unstable Mod Version  | Branch Status |
+| :---------------- | :-------------------------------------------------------- | :-------------------- | :------------ |
+| 26.1.x            | <font color="limegreen">2.6.1+26.1.neoforge</font>        | -                     | LTS           |
+| 1.21.11           | <font color="orange">2.1.1+1.21.11.neoforge</font>        | -                     | -             |
+| 1.21 - 1.21.1     | <font color="orange">2.1.1+1.21.neoforge.patch.1</font>   | -                     | -             |
 
 ## Forge
 | Minecraft Version | Stable Mod Version                            | Unstable Mod Version  |
